@@ -11,11 +11,7 @@ background-image: linear-gradient(to right top, #f06a4f, #ff9b4f, #fff352, #54ff
 
 .header
 {
-	color: white; font-family: 'Lobster', cursive; ;font-size: 45px;letter-spacing: 10px;margin-top: 80px;
-}
-.header img
-{
-	width: 80px;margin-left: -15px;
+	color: white;font-family: 'Alfa Slab One', cursive;font-size: 50px;letter-spacing: 10px;margin-top: 80px;
 }
 
 .login_div
@@ -37,6 +33,7 @@ background-image: linear-gradient(to right top, #f06a4f, #ff9b4f, #fff352, #54ff
 {
 	cursor: pointer;
 	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -107,3 +104,10 @@ background-image: linear-gradient(to right top, #f06a4f, #ff9b4f, #fff352, #54ff
 {
 	font-family: 'Montserrat', sans-serif;
 }
+
+#addRoom
+{
+	width: 30%;border-radius: 15px; font-family: 'Montserrat', sans-serif;
+	
+}
+

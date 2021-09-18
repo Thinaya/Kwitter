@@ -2,8 +2,6 @@ html, body
 {
   height: 100%;
   margin: 0;
-  font-family: 'Montserrat', sans-serif;
-
 }
 
 body
@@ -13,11 +11,7 @@ background-image: linear-gradient(to right top, #f06a4f, #ff9b4f, #fff352, #54ff
 
 .header
 {
-	color: white; font-family: 'Alfa Slab One', cursive; ;font-size: 45px;letter-spacing: 10px;margin-top: 80px;
-}
-.header img
-{
-	width: 80px;margin-left: -15px;
+	color: white;font-family: 'Alfa Slab One', cursive;font-size: 50px;letter-spacing: 10px;margin-top: 80px;
 }
 
 .login_div
@@ -40,13 +34,12 @@ background-image: linear-gradient(to right top, #f06a4f, #ff9b4f, #fff352, #54ff
 	cursor: pointer;
 	font-size: 20px;
 	font-family: 'Montserrat', sans-serif;
-
 }
 
 
 #logout
 {
-	font-size: 20px; 	font-family: 'Montserrat', sans-serif;	float: right;
+	font-size: 20px; float: right; font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -112,8 +105,30 @@ background-image: linear-gradient(to right top, #f06a4f, #ff9b4f, #fff352, #54ff
 	font-family: 'Montserrat', sans-serif;
 }
 
-#label14
+.header
+{
+	font-family: 'Alfa Slab One', cursive;
+}
+
+#addRoom
 {
 	font-family: 'Montserrat', sans-serif;
+	
+}
+
+label{
+    font-family: 'Montserrat', sans-serif;
+  
+}
+
+#header3
+{
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+#send_button
+{
+    width: 30%;border-radius: 15px; font-family: 'Montserrat', sans-serif;
 
 }
